@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "atlas-taf",
+      "children" : [ {
+        "name" : "ai.deepsee.TTTTT",
+        "children" : [ {
+          "name" : "dummyTest",
+          "uid" : "fa5dadf587a0e179",
+          "parentUid" : "364b5de8d5170801e4ae7c0b5b90ec17",
+          "status" : "passed",
+          "time" : {
+            "start" : 1621242166164,
+            "stop" : 1621242166174,
+            "duration" : 10
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "364b5de8d5170801e4ae7c0b5b90ec17"
+      } ],
+      "uid" : "63f31d56164588b5d9ab33a77b3b93d6"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

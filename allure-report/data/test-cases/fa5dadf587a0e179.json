@@ -1,0 +1,62 @@
+{
+  "uid" : "fa5dadf587a0e179",
+  "name" : "dummyTest",
+  "fullName" : "ai.deepsee.TTTTT.dummyTest",
+  "historyId" : "87c3534c2102a48bec8e808507a551ae",
+  "time" : {
+    "start" : 1621242166164,
+    "stop" : 1621242166174,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ai.deepsee.TTTTT"
+  }, {
+    "name" : "testClass",
+    "value" : "ai.deepsee.TTTTT"
+  }, {
+    "name" : "testMethod",
+    "value" : "dummyTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "atlas-taf"
+  }, {
+    "name" : "subSuite",
+    "value" : "ai.deepsee.TTTTT"
+  }, {
+    "name" : "host",
+    "value" : "home"
+  }, {
+    "name" : "thread",
+    "value" : "20024@home.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa5dadf587a0e179.json",
+  "parameterValues" : [ ]
+}

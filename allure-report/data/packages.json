@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ai.deepsee.TTTTT",
+    "children" : [ {
+      "name" : "dummyTest",
+      "uid" : "fa5dadf587a0e179",
+      "parentUid" : "2424979e6a288580996a6d99f69d4b57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621242166164,
+        "stop" : 1621242166174,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ai.deepsee.TTTTT"
+  } ]
+}

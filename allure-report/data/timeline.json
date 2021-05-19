@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "home",
+    "children" : [ {
+      "name" : "20024@home.main(1)",
+      "children" : [ {
+        "name" : "dummyTest",
+        "uid" : "fa5dadf587a0e179",
+        "parentUid" : "b087fbc880b2ed9db09ce445c280d44a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621242166164,
+          "stop" : 1621242166174,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b087fbc880b2ed9db09ce445c280d44a"
+    } ],
+    "uid" : "003edc07beb821419b8db659c76df69f"
+  } ]
+}
